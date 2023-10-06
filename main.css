@@ -1,0 +1,39 @@
+.container {
+  max-width: 1340px;
+  width: 100%;
+  margin: 0 auto;
+}
+.js-form {
+  padding: 10px;
+  padding-left: 331px;
+}
+.list {
+  padding-left: 150px;
+  display: flex;
+  list-style: none;
+}
+.list-item {
+  margin-left: 15px;
+  padding: 50px;
+
+  border: 3px solid rgb(34, 25, 25);
+}
+.list-item__spanone {
+  padding-top: 50px;
+  display: block;
+}
+.div {
+  padding-left: 17px;
+}
+.box {
+  display: flex;
+  padding-left: 170px;
+
+}
+.textone {
+  padding-right:  140px;
+}.texttwo {
+  padding-right: 110px;
+}.textthre {
+  padding-right:  120px;
+}
